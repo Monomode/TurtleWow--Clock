@@ -1,6 +1,6 @@
 # Clock
 
-Nothing special, all it does is, it draws a movable clock on the screen. Ctrl + Right-Click to drag it.
+Draws a movable clock on the screen. Ctrl + Right-Click to drag it.
 
 ![preview](https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/ShaguClock/orgrimmar.png)
 
