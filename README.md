@@ -2,8 +2,6 @@
 
 Draws a movable clock on the screen. Ctrl + Right-Click to drag it.
 
-![preview](https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/ShaguClock/orgrimmar.png)
-
 ## Installation (Vanilla, 1.12)
 1. Download **[Latest Version]
 2. Unpack the Zip file
