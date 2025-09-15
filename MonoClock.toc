@@ -1,6 +1,6 @@
 ## Interface: 11200
-## Title: |cff7fff7f TurtleWOW|r Auto|cff33ffccClock|cffffffff
+## Title: |cff7fff7f TurtleWOW|r Mono|cff33ffccClock|cffffffff
 ## Author: Monomoy
 ## Notes: Draws a movable clock on the screen.
-## Version: 0.1
+## Version: 2
 Clock.lua
