@@ -1,7 +1,8 @@
 ## Interface: 11200
-## Title: |cff7fff7f TurtleWOW|r |cff33ffccClock|cffffffff
+## Title: |cff7fff7f TurtleWOW|r Clock
 ## Author: Monomoy
 ## Notes: Draws a movable clock on the screen.
 ## Version: 2
 Clock.lua
+
 
